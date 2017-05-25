@@ -1,13 +1,13 @@
 ---
 title: "USL Monitoring Platform"
-author: "Paul Smith's College Adirondack Watershed Institute - Upper Saranac Lake Foundation"
+author: "Paul Smith's College Adirondack Watershed Institute - Saranac Lake Foundation"
 date: "Since May 23, 2017"
 output: 
   html_document: 
     theme: readable
 ---
-Paul Smith's College and the Upper Saranac lake Foundation maintains an environmental monitoring platform on the upper basin of Upper Saranac Lake, NY. The platform collects surface weather data and limnological data from the surface to 27m. Data is freely accesible, but attribution to Paul Smith's College Adirondack Watershed Institute and our funding sources is requested. Support for the environmental monitoring platform comes from the National Fish and Wildlife Service and the Upper Saranac Lake Foundation.
+<html> <img src="http://www.adkwatershed.org/sites/default/files/usl_platform1-01.jpg"> </html>
+
+Paul Smith's College and the Saranac lake Foundation maintains an environmental monitoring platform on the lower basin of Upper Saranac Lake, NY. The platform collects surface weather data and limnological data from the surface to 27m. Data is freely accesible, but attribution to Paul Smith's College Adirondack Watershed Institute and our funding sources is requested. Support for the environmental monitoring platform comes from the National Fish and Wildlife Foundation and the Saranac Lake Foundation.
 
 A technical report on the water chemistries of Upper Saranac Lake and its tributaries is available <html> <a href="http://www.adkwatershed.org/sites/default/files/usl2016report.pdf" >HERE.</a> </html>
-
-<html> <img src="http://www.adkwatershed.org/sites/default/files/upper_saranac_lake.png"> </html>
