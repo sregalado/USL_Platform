@@ -1,6 +1,6 @@
 ---
 title: "USL Monitoring Platform"
-author: "Paul Smith's College - Adirondack Watershed Institute - Upper Saranac Lake Foundation"
+author: "Paul Smith's College Adirondack Watershed Institute - Upper Saranac Lake Foundation"
 date: "Since May 23, 2017"
 output: 
   html_document: 
