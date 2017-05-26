@@ -13,3 +13,7 @@ Paul Smith's College and the Saranac lake Foundation maintains an environmental 
 A technical report on the water chemistries of Upper Saranac Lake and its tributaries is available <html> <a href="http://www.adkwatershed.org/sites/default/files/usl2016report.pdf" >HERE.</a> </html>
 
 For More Information, contact Sean Regalado: sregalado[at]s.paulsmiths.edu
+
+<html> <b>Current photo from the platform</b></html>
+
+<html> <img src="PaulSmith528.JPG"> </html>
