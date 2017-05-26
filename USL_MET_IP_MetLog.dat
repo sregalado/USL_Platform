@@ -386,3 +386,7 @@
 "2017-05-26 11:59:50",487,"Reseting Modbus Registers 74 to 80 with value(32767).","Offset(74); howMany(7); value(32767)"
 "2017-05-26 12:14:30",488,"Reseting Modbus Registers 74 to 80 with value(32766).","Offset(74); howMany(7); value(32766)"
 "2017-05-26 12:14:50",489,"Reseting Modbus Registers 74 to 80 with value(32767).","Offset(74); howMany(7); value(32767)"
+"2017-05-26 12:29:30",490,"Reseting Modbus Registers 74 to 80 with value(32766).","Offset(74); howMany(7); value(32766)"
+"2017-05-26 12:29:50",491,"Reseting Modbus Registers 74 to 80 with value(32767).","Offset(74); howMany(7); value(32767)"
+"2017-05-26 12:44:30",492,"Reseting Modbus Registers 74 to 80 with value(32766).","Offset(74); howMany(7); value(32766)"
+"2017-05-26 12:44:50",493,"Reseting Modbus Registers 74 to 80 with value(32767).","Offset(74); howMany(7); value(32767)"
